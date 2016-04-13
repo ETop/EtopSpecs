@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
          咚咚系APP网络请求类库.ETop 使用
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/YTNetAPIClient"
+  s.homepage         = "https://github.com/ETop/YTNetAPIClient"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "钟远科" => "604217454@qq.com" }
