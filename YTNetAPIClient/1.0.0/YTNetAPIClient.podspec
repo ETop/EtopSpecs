@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "钟远科" => "604217454@qq.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/YTNetAPIClient.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/ETop/YTNetAPIClient.git"}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
